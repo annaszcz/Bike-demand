@@ -8,14 +8,14 @@ All data was retrieved from Capital bikeshare website.
 Legal Terms:
 All data has been used only for educational purposes
 
-# 'cleaningdatasets.ipynb' - Code wirh data wrangling data sets
+ 'cleaningdatasets.ipynb' - Code wirh data wrangling data sets
 
 Same basic steps:
 *Checking the shape of datasets and column names
 *Handling missing values
 *Conversion of data types where needed
 
-# 'EDA.ipynb' - Exploratory data analysis
+ 'EDA.ipynb' - Exploratory data analysis
 🔍 Key Questions
 1️⃣ How does the number of shared bikes fluctuate hourly? ⏳
 
